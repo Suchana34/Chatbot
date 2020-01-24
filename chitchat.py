@@ -1,4 +1,4 @@
-name = "Greg"
+name = "Suchana"
 weather = "cloudy"
 
 # Defining a dictionary with the predefined responses
