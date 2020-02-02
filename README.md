@@ -11,3 +11,9 @@
  3. API logic (for taking data from databases).
  4. Natural language response generator.
  5. Both supervised and reinforcement learning can be used to train the system.
+
+# Deployment of Facebook Messenger Bot with Python using Flask, requests and ngrok.
+ Steps :
+ 1. Creation of a server listening to messages from Facebook.(Flask is used)
+ 2. Defining a function which sends messages back to users.(Using requests).
+ 3. Forwarding a https connection to your local machine(using ngrok). 
